@@ -1,4 +1,5 @@
 🚗 AI-based Car Recommendation System
+
 This project implements an end-to-end AI-based Car Recommendation System to predict car names and their selling prices based on user-defined features. It combines machine learning, deep learning, and similarity search techniques to provide intelligent recommendations.
 
 📌 Features
