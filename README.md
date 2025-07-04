@@ -3,12 +3,19 @@
 This project implements an end-to-end AI-based Car Recommendation System to predict car names and their selling prices based on user-defined features. It combines machine learning, deep learning, and similarity search techniques to provide intelligent recommendations.
 
 📌 Features
+
 ✅ Predicts car selling prices using Random Forest and XGBoost
+
 ✅ Predicts car names using an Artificial Neural Network (ANN)
+
 ✅ Cosine similarity for recommending similar cars
+
 ✅ Interactive command-line interface to collect user preferences
+
 ✅ Clean and robust data preprocessing
+
 ✅ Exploratory Data Analysis with visualizations
+
 ✅ Web scraping pipeline with BeautifulSoup for automotive listings (optional, for EDA)
 
 🧩 Technologies Used
@@ -72,15 +79,16 @@ Command line interface asks user preferences (brand, fuel type, mileage, price r
 Returns predicted car names and prices
 
 📊 Visualizations
+
 Feature importance plots
 
-Pie charts
-
-Heatmaps
-
-Predicted vs. actual scatter plots
-
-ANN/RNN accuracy and loss curves
+  Pie charts
+  
+  Heatmaps
+  
+  Predicted vs. actual scatter plots
+  
+  ANN/RNN accuracy and loss curves
 
 📝 Learnings
 ✅ Tree-based models outperform other approaches for tabular data
