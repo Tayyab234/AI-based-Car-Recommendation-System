@@ -19,21 +19,23 @@ This project implements an end-to-end AI-based Car Recommendation System to pred
 ✅ Web scraping pipeline with BeautifulSoup for automotive listings (optional, for EDA)
 
 🧩 Technologies Used
-Python
 
-pandas
-
-scikit-learn
-
-XGBoost
-
-TensorFlow/Keras
-
-Matplotlib & Seaborn
-
-BeautifulSoup (for scraping)
+  Python
+  
+  pandas
+  
+  scikit-learn
+  
+  XGBoost
+  
+  TensorFlow/Keras
+  
+  Matplotlib & Seaborn
+  
+  BeautifulSoup (for scraping)
 
 🗂️ Project Workflow
+
 1️⃣ Data Preprocessing
 
 Cleaned nulls, missing, and duplicate entries
